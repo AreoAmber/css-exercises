@@ -1,0 +1,14 @@
+.click-one-yellow-background{
+    font-family:'Helvetica', 'Times New Roman', 'sans-serif' ;
+    font-size: 26px;
+    color: white;
+    background-color: black;
+}
+
+
+.click-two-black-background{
+     font-family:'Helvetica', 'Times New Roman', 'sans-serif' ;
+    font-size: 26px;
+    color: black;
+    background-color: rgb(255, 255, 0);
+}
